@@ -63,3 +63,27 @@ The client connects to the server, sends two numbers and an arithmetic operation
 Enter two numbers: 2, 3
 Enter operation: modulus
 Output: 2
+
+### **Data Integrity**
+```sh
+A hash function is used to ensure the integrity of the data transmitted between the client and the server. The hash values are calculated and verified at both ends to detect any data corruption during transmission.
+
+### **Conclusion**
+```sh
+This project demonstrates a simple yet effective implementation of a TCP client-server model with a focus on performing arithmetic operations and ensuring data integrity.
+
+### **License**
+```sh
+This project is licensed under the MIT License - see the LICENSE file for details.
+
+### Additional Files to Include in the GitHub Repository
+1. **Source Code**: `server.c` and `client.c` files containing the server and client implementation.
+2. **LICENSE**: A file detailing the license under which the project is distributed (e.g., MIT License).
+3. **README.md**: Detailed instructions and information about the project.
+4. **CONTRIBUTING.md**: Guidelines for contributing to the project.
+5. **.gitignore**: A file specifying which files and directories to ignore in the repository.
+
+
+
+
+
