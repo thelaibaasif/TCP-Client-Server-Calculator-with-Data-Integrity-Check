@@ -1,0 +1,2 @@
+# TCP-Client-Server-Calculator-with-Data-Integrity-Check
+This project implements a TCP client-server model in C where the server acts as a calculator performing basic arithmetic operations (add, subtract, multiply, divide, modulus) based on the client's input. The server remains active until the client terminates the connection. Additionally, a hash function ensures data integrity during transmission.
