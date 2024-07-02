@@ -1,4 +1,5 @@
-# TCP Client-Server Calculator with Data Integrity
+# TCP Client-Server Calculator with Data Integrity -Computer Networks 
+
 
 ## Description
 This project demonstrates a TCP client-server model where the server acts as a calculator. The client sends two numbers and an arithmetic operation (add, subtract, multiply, divide, modulus) to the server, which calculates the result and returns it to the client. The server stays active until the client sends a stop command. A hash function is used to ensure data integrity.
